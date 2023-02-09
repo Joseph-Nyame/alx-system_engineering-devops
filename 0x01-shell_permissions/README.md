@@ -32,5 +32,5 @@
 
 16: chown --from=guillaume betty hello Change owner of the file hello to betty only if it is currently owned by guillaume
 
-17: telnet towel.blinkenlights.nl Play the Star Wars IV episode in the terminal. This is a script provided online.
+17: telnet towel.blinkenlights.nl Play the Star Wars IV episode in the terminal. 
 
